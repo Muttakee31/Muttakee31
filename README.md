@@ -1,12 +1,10 @@
-### Hello there,  <img src="https://giphy.com/media/IMfi5ugpf3W1y/giphy.webp" alt="hello" width="30">
+### Hello there,  <img src="https://i.imgur.com/4F9RGmX.gif" alt="hello" width="30">
 
+<img align='right' alt="lazy" src="https://media1.giphy.com/media/a5MFvAwc6GPf2/giphy.gif" width="320">
 
 I am Saad Al Muttakee. Web developer, football freak, foodie, loves to sleep, watched too many sitcoms.
 
 I am currently working at Dingi Technologies Limited. I mainly work with React, Django and Next.js.
-
-
-<img align='right' alt="lazy" src="https://media1.giphy.com/media/a5MFvAwc6GPf2/giphy.gif" width="320">
 
 
 <br />
@@ -32,7 +30,7 @@ You can contact me via --
 <br />
 <br />
 
-###technical strengths:
+### Technical strengths:
 
 |   |  |
 | ------------- | ------------- |
