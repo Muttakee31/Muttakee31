@@ -3,7 +3,8 @@
 
 I am Saad Al Muttakee. Web developer, football freak, foodie, loves to sleep, watched too many sitcoms.
 
-I am currently working at Dingi Technologies Limited.
+I am currently working at Dingi Technologies Limited. I mainly work with React, Django and Next.js.
+
 
 <img align='right' alt="lazy" src="https://media1.giphy.com/media/a5MFvAwc6GPf2/giphy.gif" width="320">
 
@@ -11,7 +12,7 @@ I am currently working at Dingi Technologies Limited.
 <br />
 <br />
  
-You can find me via --
+You can contact me via --
 
 
 <a href="mailto:muttakee9@gmail.com">
@@ -33,13 +34,16 @@ You can find me via --
 
 ###technical strengths:
 
-| Section  | Skills |
+|   |  |
 | ------------- | ------------- |
 | Languages | Javascript, Python, Java, C++, Typescript |
 | Backend | Django |
 | Frontend | React, Next.js, Material ui, Bootstrap |
 | DBMS | PostgreSQL, SQLite |
-| Others | Google Map API, Chrome extension |
+| Others | Google Maps API, Chrome extension |
+
+<br />
+<br />
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=muttakee31&show_icons=true&theme=tokyonight&count_private=true)
 
