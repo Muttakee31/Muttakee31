@@ -1,5 +1,17 @@
-### Hi there 👋
+### Hello there,  <img src="https://giphy.com/media/IMfi5ugpf3W1y/giphy.webp" alt="hello" width="30">
 
+
+I am Saad Al Muttakee. Web developer, football freak, foodie, loves to sleep.
+
+I am currently working at Dingi Technologies Limited.
+
+<img align='right' alt="lazy" src="https://media1.giphy.com/media/a5MFvAwc6GPf2/giphy.gif" width="320">
+
+
+<br />
+<br />
+ 
+You can find me via --
 
 
 <a href="mailto:muttakee9@gmail.com">
@@ -19,21 +31,32 @@
 <br />
 <br />
 
+###technical strengths:
+
+Languages: Javascript, Python, Java, Typescript
+
+Backend: Django, Express
+
+Database: PostgreSQL, SQLite, Firebase, MongoDB
+
+Frontend: React, Next.js, Typescript, Electron, sass, PWA, Material, Bootstrap
+
+Others: Google Map API, 
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=muttakee31&show_icons=true&theme=tokyonight&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muttakee31&langs_count=5&layout=compact&theme=tokyonight)](https://github.com/muttakee31/github-readme-stats)
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/muttakee31/github-readme-stats)
 -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muttakee31&repo=MedicalTest&theme=vue-dark)](https://github.com/muttakee31/MedicalTest)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muttakee31&repo=check-the-holidays&theme=vue-dark)](https://github.com/muttakee31/check-the-holidays)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muttakee31&repo=MedicalTest&theme=react)](https://github.com/muttakee31/MedicalTest)     [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muttakee31&repo=check-the-holidays&theme=react)](https://github.com/muttakee31/check-the-holidays) 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=musophobia&repo=MedMCQ&theme=vue-dark)](https://github.com/musophobia/MedMCQ)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=musophobia&repo=gogabangla&theme=vue-dark)](https://github.com/musophobia/gogabangla)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=musophobia&repo=MedMCQ&theme=react)](https://github.com/musophobia/MedMCQ)      [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=musophobia&repo=gogabangla&theme=react)](https://github.com/musophobia/gogabangla)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muttakee31&repo=bangla-bakademy&theme=vue-dark)](https://github.com/Muttakee31/bangla-bakademy)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muttakee31&repo=bangla-bakademy&theme=react)](https://github.com/Muttakee31/bangla-bakademy)
 
 
 <!--
