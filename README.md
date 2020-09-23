@@ -1,7 +1,7 @@
 ### Hello there,  <img src="https://giphy.com/media/IMfi5ugpf3W1y/giphy.webp" alt="hello" width="30">
 
 
-I am Saad Al Muttakee. Web developer, football freak, foodie, loves to sleep.
+I am Saad Al Muttakee. Web developer, football freak, foodie, loves to sleep, watched too many sitcoms.
 
 I am currently working at Dingi Technologies Limited.
 
@@ -33,15 +33,13 @@ You can find me via --
 
 ###technical strengths:
 
-Languages: Javascript, Python, Java, Typescript
-
-Backend: Django, Express
-
-Database: PostgreSQL, SQLite, Firebase, MongoDB
-
-Frontend: React, Next.js, Typescript, Electron, sass, PWA, Material, Bootstrap
-
-Others: Google Map API, 
+| Section  | Skills |
+| ------------- | ------------- |
+| Languages | Javascript, Python, Java, C++, Typescript |
+| Backend | Django, Express |
+| Frontend | React, Next.js, Electron, sass, PWA, Material ui, Bootstrap |
+| DBMS | PostgreSQL, SQLite, MongoDB |
+| Others | Google Map API, Chrome extension |
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=muttakee31&show_icons=true&theme=tokyonight&count_private=true)
 
