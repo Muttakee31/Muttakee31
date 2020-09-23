@@ -36,9 +36,9 @@ You can find me via --
 | Section  | Skills |
 | ------------- | ------------- |
 | Languages | Javascript, Python, Java, C++, Typescript |
-| Backend | Django, Express |
-| Frontend | React, Next.js, Electron, sass, PWA, Material ui, Bootstrap |
-| DBMS | PostgreSQL, SQLite, MongoDB |
+| Backend | Django |
+| Frontend | React, Next.js, Material ui, Bootstrap |
+| DBMS | PostgreSQL, SQLite |
 | Others | Google Map API, Chrome extension |
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=muttakee31&show_icons=true&theme=tokyonight&count_private=true)
