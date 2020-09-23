@@ -1,4 +1,4 @@
-### Hello there,  <img src="https://i.imgur.com/4F9RGmX.gif" alt="hello" width="30">
+### Hello there,  <img src="https://i.imgur.com/4F9RGmX.gif" alt="hello" width="50">
 
 <img align='right' alt="lazy" src="https://media1.giphy.com/media/a5MFvAwc6GPf2/giphy.gif" width="320">
 
