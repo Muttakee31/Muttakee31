@@ -2,7 +2,7 @@
 
 <img align='right' alt="lazy" src="https://media1.giphy.com/media/a5MFvAwc6GPf2/giphy.gif" width="320">
 
-I am Saad Al Muttakee. Web developer, football freak, foodie, loves to sleep, watched too many sitcoms.
+I am Saad Al Muttakee. Web developer, football freak, foodie, love to sleep, watched too many sitcoms.
 
 I am currently working at Dingi Technologies Limited. I mainly work with React, Django and Next.js.
 
