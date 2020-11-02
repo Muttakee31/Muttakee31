@@ -2,9 +2,9 @@
 
 <img align='right' alt="lazy" src="https://media1.giphy.com/media/a5MFvAwc6GPf2/giphy.gif" width="320">
 
-I am Saad Al Muttakee. Web developer, football freak, foodie, love to sleep, watched too many sitcoms.
+I am Saad Al Muttakee. Web developer, football freak, love to sleep, watched too many sitcoms.
 
-I am currently working at Dingi Technologies Limited. I mainly work with React, Django and Next.js.
+I am currently working at Field Information Solutions Limited. I work as a Backend Developer. I also have expereience of working with CRA and Next.js
 
 
 <br />
@@ -15,7 +15,7 @@ You can contact me via --
 
 <a href="mailto:muttakee9@gmail.com">
   <img align="left" alt="Gmail" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+</a>  
 <a href="https://www.linkedin.com/in/saad-al-muttakee-5aa399158/">
   <img align="left" alt="LinkedIn" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -24,7 +24,7 @@ You can contact me via --
 </a>
 
 <a href="https://stackoverflow.com/users/8656822/eyepatch31">
-  <img align="left" alt="Stackoverflow" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  <img align="left" alt="Stack Overflow" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 
 <br />
@@ -32,7 +32,7 @@ You can contact me via --
 
 ### Technical strengths:
 
-|   |  |
+|  Skills | Entity |
 | ------------- | ------------- |
 | Languages | Javascript, Python, Java, C++, Typescript |
 | Backend | Django |
@@ -58,6 +58,8 @@ You can contact me via --
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muttakee31&repo=bangla-bakademy&theme=react)](https://github.com/Muttakee31/bangla-bakademy)
 
+
+<p align="center"><img align='center' src="https://komarev.com/ghpvc/?username=Muttakee31" alt="Muttakee31" /> </p>
 
 <!--
 **Muttakee31/Muttakee31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
