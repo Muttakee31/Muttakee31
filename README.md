@@ -34,11 +34,11 @@ You can contact me via --
 
 |  Skills | Entity |
 | ------------- | ------------- |
-| Languages | Javascript, Python, Java, C++, Typescript |
-| Backend | Django |
-| Frontend | React, Next.js, Material ui, Bootstrap |
-| DBMS | PostgreSQL, SQLite |
-| Others | Google Maps API, Chrome extension |
+| Languages | Javascript <img alt="75" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505584/circle-75_k0qjox.png" width="15">, Python <img  alt="75" title="75" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505584/circle-75_k0qjox.png" width="15">, Java <img  alt="50" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604504686/circle-50.png" width="15">, C++ <img  alt="50" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604504686/circle-50.png" width="15">, Typescript <img alt="75" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505584/circle-75_k0qjox.png" width="15"> |
+| Backend | Django <img alt="90" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505655/circle-90_ojz67q.png" width="15">, Express <img  alt="50" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604504686/circle-50.png" width="15"> |
+| Frontend | React <img alt="90" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505655/circle-90_ojz67q.png" width="15">, Next.js <img  alt="90" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505655/circle-90_ojz67q.png" width="15">, Electron <img  alt="75" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505584/circle-75_k0qjox.png" width="15">, Material ui <img  alt="25" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604504499/circle-25.png" width="15">, Bootstrap <img  alt="90" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505655/circle-90_ojz67q.png" width="15"> |
+| DBMS | PostgreSQL <img alt="75" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505584/circle-75_k0qjox.png" width="15">, SQLite <img  alt="75" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505584/circle-75_k0qjox.png" width="15">, MongoDB <img  alt="25" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604504499/circle-25.png" width="15"> |
+| Others | Google Maps API <img alt="90" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505655/circle-90_ojz67q.png" width="15">, Chrome extension <img  alt="50" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604504686/circle-50.png" width="15">, PostGIS <img  alt="25" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604504499/circle-25.png" width="15"> |
 
 <br />
 <br />
