@@ -50,15 +50,6 @@ You can contact me via --
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/muttakee31/github-readme-stats)
 -->
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muttakee31&repo=MedicalTest&theme=react)](https://github.com/muttakee31/MedicalTest)     [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muttakee31&repo=check-the-holidays&theme=react)](https://github.com/muttakee31/check-the-holidays) 
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=musophobia&repo=MedMCQ&theme=react)](https://github.com/musophobia/MedMCQ)      [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=musophobia&repo=gogabangla&theme=react)](https://github.com/musophobia/gogabangla)
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muttakee31&repo=bangla-bakademy&theme=react)](https://github.com/Muttakee31/bangla-bakademy)
-
-
 <p align="center"><img align='center' src="https://komarev.com/ghpvc/?username=Muttakee31" alt="Muttakee31" /> </p>
 
 <!--
