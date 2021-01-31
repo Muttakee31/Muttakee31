@@ -4,7 +4,7 @@
 
 I am Saad Al Muttakee. Web developer, football freak, love to sleep, watched too many sitcoms.
 
-I am currently working at Field Information Solutions Limited. I work as a Backend Developer. I also have expereience of working with CRA and Next.js
+I am currently working at Field Information Solutions Limited. I mainly work as a backend developer there. I also have experience of working with CRA and Next.js.
 
 
 <br />
