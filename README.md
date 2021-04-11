@@ -14,17 +14,17 @@ You can contact me via --
 
 
 <a href="mailto:muttakee9@gmail.com">
-  <img align="left" alt="Gmail" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" target="_blank" width="22px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
 </a>  
 <a href="https://www.linkedin.com/in/saad-al-muttakee-5aa399158/">
-  <img align="left" alt="LinkedIn" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" target="_blank" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
 </a>
 <a href="https://www.facebook.com/muttakee9/">
-  <img align="left" alt="Facebook" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Facebook" target="_blank" width="22px" src="https://i.pinimg.com/originals/af/9c/cb/af9ccb82cd058e86d5a487223980e31c.png" />
 </a>
 
 <a href="https://stackoverflow.com/users/8656822/eyepatch31">
-  <img align="left" alt="Stack Overflow" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  <img align="left" alt="Stack Overflow" target="_blank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
 </a>
 
 <br />
@@ -35,8 +35,8 @@ You can contact me via --
 |  Skills | Entity |
 | ------------- | ------------- |
 | Languages | Javascript <img alt="75" title="0.75" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505584/circle-75_k0qjox.png" width="15">, Python <img  alt="75" title="0.75" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505584/circle-75_k0qjox.png" width="15">, Java <img  alt="50" title="0.50" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604504686/circle-50.png" width="15">, C++ <img  alt="50" title="0.50" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604504686/circle-50.png" width="15">, Typescript <img alt="75" title="0.75" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505584/circle-75_k0qjox.png" width="15"> |
-| Backend | Django <img alt="90" title="0.90" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505655/circle-90_ojz67q.png" width="15">, Express <img  alt="50" title="0.50" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604504686/circle-50.png" width="15"> |
-| Frontend | React <img alt="90" title="0.90" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505655/circle-90_ojz67q.png" width="15">, Next.js <img  alt="90" title="0.90" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505655/circle-90_ojz67q.png" width="15">, Electron <img  alt="75" title="0.75" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505584/circle-75_k0qjox.png" width="15">, Material ui <img  alt="25" title="0.25" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604504499/circle-25.png" width="15">, Bootstrap <img  alt="90" title="0.90" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505655/circle-90_ojz67q.png" width="15"> |
+| Frameworks | Django <img alt="90" title="0.90" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505655/circle-90_ojz67q.png" width="15">, Node.js <img  alt="50" title="0.50" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604504686/circle-50.png" width="15"> |
+| Frontend | React <img alt="90" title="0.90" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505655/circle-90_ojz67q.png" width="15">, Next.js <img  alt="90" title="0.90" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505655/circle-90_ojz67q.png" width="15">, Electron <img  alt="75" title="0.75" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505584/circle-75_k0qjox.png" width="15"> |
 | DBMS | PostgreSQL <img alt="75" title="0.75" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505584/circle-75_k0qjox.png" width="15">, SQLite <img  alt="75" title="0.75" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505584/circle-75_k0qjox.png" width="15">, MongoDB <img  alt="25" title="0.25" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604504499/circle-25.png" width="15"> |
 | Others | Google Maps API <img alt="90" title="0.75" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604505655/circle-90_ojz67q.png" width="15">, Chrome extension <img  alt="50" title="0.50" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604504686/circle-50.png" width="15">, PostGIS <img  alt="25" title="0.25" src="https://res.cloudinary.com/dk3ypuyiy/image/upload/v1604504499/circle-25.png" width="15"> |
 
