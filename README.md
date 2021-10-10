@@ -2,39 +2,11 @@
 
 <img align='right' alt="lazy" src="https://media1.giphy.com/media/a5MFvAwc6GPf2/giphy.gif" width="320">
 
-I am Saad Al Muttakee. Web developer, football freak, love to sleep, watched too many sitcoms.
-
-I am currently working at Enosis Solutions. Learning .NET and Angularjs right now.
-
-I also have experience of working with React, Django, NodeJS.
-
-Interested in blockchain, system design and backend architecture.
-
-
-<br />
-<br />
- 
-You can contact me via --
-
-
-<a href="mailto:muttakee9@gmail.com">
-  <img align="left" alt="Gmail" target="_blank" width="22px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
-</a>  
-<a href="https://www.linkedin.com/in/saad-al-muttakee-5aa399158/">
-  <img align="left" alt="LinkedIn" target="_blank" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
-</a>
-<a href="https://www.facebook.com/muttakee9/">
-  <img align="left" alt="Facebook" target="_blank" width="22px" src="https://i.pinimg.com/originals/af/9c/cb/af9ccb82cd058e86d5a487223980e31c.png" />
-</a>
-
-<a href="https://stackoverflow.com/users/8656822/eyepatch31">
-  <img align="left" alt="Stack Overflow" target="_blank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
-</a>
-
+I am Saad. Currently working at Enosis Solutions. Interested in building stuff and learning new tech.
 <br />
 <br />
 
-### Technical strengths:
+<!-- ### Technical strengths:
 
 |  Skills | Entity |
 | ------------- | ------------- |
@@ -43,9 +15,10 @@ You can contact me via --
 | Frontend | <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/> <img alt="Electron" src="https://img.shields.io/badge/electron-%2320232a.svg?style=for-the-badge&logo=electron&logoColor=%2361DAFB"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/> <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/> |
 | DBMS | <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> |
 | Others | Google Maps API, Mapbox, Nginx, Chrome extension |
+<br />
+<br />
+ -->
 
-<br />
-<br />
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=muttakee31&show_icons=true&theme=tokyonight&count_private=true)
 
