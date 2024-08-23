@@ -2,7 +2,7 @@
 
 <img align='right' alt="lazy" src="https://media1.giphy.com/media/a5MFvAwc6GPf2/giphy.gif" width="320">
 
-I am Saad. Currently working at the Expert Services Dhaka team of [Optimizely](https://world.optimizely.com/). I find happiness building products and learning new stuff.
+I am Saad. Currently working at the Expert Services, Dhaka team of [Optimizely](https://world.optimizely.com/). I find happiness building products and learning new stuff.
 <br />
 <br />
 My primary stack is .NET and React at the moment. I also worked with Django, Angular, NodeJS, Next.js for a significant period of time.
