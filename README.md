@@ -24,14 +24,6 @@ I worked at [Enosis Solutions](https://www.enosisbd.com/) prior to this for thre
 <br />
  -->
 
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=muttakee31&show_icons=true&theme=tokyonight&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muttakee31&langs_count=5&layout=compact&theme=tokyonight)](https://github.com/muttakee31/github-readme-stats)
-<!--
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/muttakee31/github-readme-stats)
--->
-
 <p align="center"><img align='center' src="https://komarev.com/ghpvc/?username=Muttakee31" alt="Muttakee31" /> </p>
 
 <!--
